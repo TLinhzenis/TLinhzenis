@@ -20,10 +20,10 @@
 <h2 align="center">⚡ Github Stats ⚡</h2>
 <br>
 <div align="center">
-  <a href="#" title="NgNgGiaHuy">
+  <a href="#" title="TLinhzenis">
     <img width="375" height="187.5" align="center" style="margin-right: 50px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TLinhzenis&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=ff79c6&text_color=ffffff&icon_color=ff79c6&bg_color=282a36&langs_count=8&layout=compact&border_color=ff79c6&hide_border=true&custom_title=TSQL%20and%20Python%20Stats&theme=dracula&langs_color=bd93f9,ff79c6" />
   </a>
-  <a href="#" title="NgNgGiaHuy">
+  <a href="#" title="TLinhzenis">
     <img width="375" height="187.5" align="center" style="margin-left: 50px;" src="https://github-readme-stats.vercel.app/api?username=TLinhzenis&show_icons=true&theme=dracula&border_color=ff79c6&hide_border=true&rank_icon=github&include_all_commits=true" />
   </a>
 </div>
