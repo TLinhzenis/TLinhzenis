@@ -8,7 +8,7 @@
 
 <div align="center"> 
   <a href="https://www.facebook.com/bui.tuan.linh.775467" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-333333?style=for-the-badge&logo=facebook&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   
   <a href= "https://ngnggiahuy.github.io/" target="_blank">
